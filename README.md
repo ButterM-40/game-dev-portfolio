@@ -9,17 +9,10 @@ This repository contains a collection of game development projects I have been w
 ## Projects
 
 1. **URP Potion Liquidation Effect**:
-   - Description: This project showcases a unique game mechanic where players collect various potions throughout the game world. When consumed, these potions provide temporary effects or boosts to the player character. Additionally, when the player character takes damage, there's a chance for these potions to shatter, creating a liquidation effect that alters the environment or affects nearby enemies. The type of effect could vary based on the potion consumed.
+   - Description: This project showcases a unique game mechanic where we apply the liquid inside capsules, and design a 3d model to showcase.
 
-2. [Project Name]:
-   - Description: [Brief description of the project and its key features.]
-
-3. [Project Name]:
-   - Description: [Brief description of the project and its key features.]
-
-4. [Project Name]:
-   - Description: [Brief description of the project and its key features.]
-
+## Models and Assets
+1. 
 ## Usage
 
 Feel free to explore the projects listed above. Each project may include instructions on how to run or play the game, as well as any additional information relevant to the project. If you have any questions or feedback regarding a specific project, don't hesitate to reach out.
