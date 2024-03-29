@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Blank Ink
+  m_Name: Yellow
   m_Shader: {fileID: -6465566751694194690, guid: e67dbf7393af95345804680bb993cddc, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -120,10 +120,10 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Fresnel_Color: {r: 0.1678035, g: 0.16687435, b: 0.2830189, a: 0}
-    - _LiquidColor: {r: 0.021870794, g: 0.012459949, b: 0.0754717, a: 0}
+    - _Fresnel_Color: {r: 0.5566038, g: 0.118147045, b: 0.118147045, a: 0}
+    - _LiquidColor: {r: 0.3301887, g: 0.11058207, b: 0.1262683, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Surface_Color: {r: 0.023829656, g: 0.01882343, b: 0.084905684, a: 0}
+    - _Surface_Color: {r: 0.4339623, g: 0.23661365, b: 0.2272161, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &4330803863455529875
 MonoBehaviour:
